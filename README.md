@@ -1,7 +1,7 @@
-# Hi, I’m Safin 👋
+# Hello, I’m Safin! 🐞
 
 I’m a 3rd-year **Software Engineering** student with a strong focus on **Data Science and Machine Learning**.  
-I love turning complex data into actionable insights and building clean, reproducible pipelines.
+I like turning complex data into actionable insights and building clean, reproducible pipelines.
 
 ---
 
@@ -12,11 +12,15 @@ I love turning complex data into actionable insights and building clean, reprodu
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00BFFF?style=flat-square&logo=lightgbm&logoColor=white)
+![Time-Series Forecasting](https://img.shields.io/badge/Time--Series-Forecasting-blue?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square?logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-00BFFF?style=flat-square)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-77AC30?style=flat-square)
 ![plotly](https://img.shields.io/badge/Plotly-3F7CAC?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-FF4C00?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
@@ -27,8 +31,8 @@ I love turning complex data into actionable insights and building clean, reprodu
 ---
 
 ### Highlights
-- Experienced in **data analysis and ML modeling**, with strong statistical and engineering foundations  
-- Actively pursuing learning in **Data Science, Machine Learning, and academic research**  
+- Experienced in **data analysis and ML modeling**, with strong statistical and engineering foundations.  
+- Actively pursuing learning in **Data Science, Machine Learning, and Academic Research**.  
 
 ---
 
